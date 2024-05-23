@@ -96,7 +96,7 @@
         <h3>Links</h3>
         <ul>
             <li><a href="[URL do LinkedIn]" target="_blank">LinkedIn</a></li>
-            <li><a href="[URL do GitHub]" target="_blank">GitHub</a></li>
+            <li><a href="[janailton.github.io]" target="_blank">GitHub</a></li>
             <li><a href="[URL do Twitter]" target="_blank">Twitter</a></li>
             <!-- Adicione mais links conforme necessário -->
         </ul>
