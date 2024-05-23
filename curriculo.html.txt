@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site Pessoal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main-content {
+            background: #fff;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Bem-vindo ao Meu Site Pessoal</h1>
+</header>
+
+<div class="container">
+    <div class="main-content">
+        <h2>Sobre Mim</h2>
+        <p>Olá! Meu nome é [janailton] e sou um profissional dedicado na área de [T.I]. Tenho [0] anos de experiência e sou apaixonado por [computadores
+].</p>
+
+        <h2>Currículo</h2>
+        <h3>Experiência Profissional</h3>
+        <ul>
+            <li><strong>[Cargo Atual]</strong> - [Nome da Empresa] (Ano de Início - Ano de Término)
+                <ul>
+                    <li>[Responsabilidade/Conquista 1]</li>
+                    <li>[Responsabilidade/Conquista 2]</li>
+                </ul>
+            </li>
+            <!-- Adicione mais experiências conforme necessário -->
+        </ul>
+
+        <h3>Educação</h3>
+        <ul>
+            <li><strong>[T.I]</strong> - [ETE] (2019 - 2022)</li>
+            <!-- Adicione mais formações conforme necessário -->
+        </ul>
+
+        <h3>Habilidades</h3>
+        <ul>
+            <li>[Habilidade 1]</li>
+            <li>[Habilidade 2]</li>
+            <li>[Habilidade 3]</li>
+            <!-- Adicione mais habilidades conforme necessário -->
+        </ul>
+
+        <h3>Links</h3>
+        <ul>
+            <li><a href="[URL do LinkedIn]" target="_blank">LinkedIn</a></li>
+            <li><a href="[URL do GitHub]" target="_blank">GitHub</a></li>
+            <li><a href="[URL do Twitter]" target="_blank">Twitter</a></li>
+            <!-- Adicione mais links conforme necessário -->
+        </ul>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 [janailton vinicius]. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
