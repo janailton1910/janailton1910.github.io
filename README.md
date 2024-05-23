@@ -96,7 +96,73 @@
         <h3>Links</h3>
         <ul>
             <li><a href="[URL do LinkedIn]" target="_blank">LinkedIn</a></li>
-            <li><a href="[URL do GitHub]" target="_blank">GitHub</a></li>
+            <li><a href="[    <h2>Currículo</h2>
+    <h3>Experiência Profissional</h3>
+    <ul>
+        <li><strong>[Cargo Atual]</strong> - [Nome da Empresa] (Ano de Início - Ano de Término)
+            <ul>
+                <li>[Responsabilidade/Conquista 1]</li>
+                <li>[Responsabilidade/Conquista 2]</li>
+            </ul>
+        </li>
+        <!-- Adicione mais experiências conforme necessário -->
+    </ul>
+
+    <h3>Educação</h3>
+    <ul>
+        <li><strong>[T.I]</strong> - [ETE] (2019 - 2022)</li>
+        <!-- Adicione mais formações conforme necessário -->
+    </ul>
+
+    <h3>Habilidades</h3>
+    <ul>
+        <li>[Habilidade 1]</li>
+        <li>[Habilidade 2]</li>
+        <li>[Habilidade 3]</li>
+        <!-- Adicione mais habilidades conforme necessário -->
+    </ul>
+
+    <h3>Links</h3>
+    <ul>
+        <li><a href="[URL do LinkedIn]" target="_blank">LinkedIn</a></li>
+        <li><a href="[URL do GitHub    <h2>Currículo</h2>
+    <h3>Experiência Profissional</h3>
+    <ul>
+        <li><strong>[Cargo Atual]</strong> - [Nome da Empresa] (Ano de Início - Ano de Término)
+            <ul>
+                <li>[Responsabilidade/Conquista 1]</li>
+                <li>[Responsabilidade/Conquista 2]</li>
+            </ul>
+        </li>
+        <!-- Adicione mais experiências conforme necessário -->
+    </ul>
+
+    <h3>Educação</h3>
+    <ul>
+        <li><strong>[T.I]</strong> - [ETE] (2019 - 2022)</li>
+        <!-- Adicione mais formações conforme necessário -->
+    </ul>
+
+    <h3>Habilidades</h3>
+    <ul>
+        <li>[Habilidade 1]</li>
+        <li>[Habilidade 2]</li>
+        <li>[Habilidade 3]</li>
+        <!-- Adicione mais habilidades conforme necessário -->
+    </ul>
+
+    <h3>Links</h3>
+    <ul>
+        <li><a href="[URL do LinkedIn]" target="_blank">LinkedIn</a></li>
+        <li><a href="[janailton.github.io]" target="_blank">GitHub</a></li>
+        <li><a href="[URL do Twitter]" target="_blank">Twitter</a></li>
+        <!-- Adicione mais links conforme necessário -->
+    </ul>
+</div>]" target="_blank">GitHub</a></li>
+        <li><a href="[URL do Twitter]" target="_blank">Twitter</a></li>
+        <!-- Adicione mais links conforme necessário -->
+    </ul>
+</div>]" target="_blank">GitHub</a></li>
             <li><a href="[URL do Twitter]" target="_blank">Twitter</a></li>
             <!-- Adicione mais links conforme necessário -->
         </ul>
